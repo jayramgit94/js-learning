@@ -4,7 +4,7 @@ var accountPassword = "12345" // don't use this
 accountCity = "Nagpur" // without writing let hum varibale define kr sakte he
 
 
-let accountstate;//eski value undefing hogi kyunki eski value define nhi  ki he 
+let accountstate;//eski value undefing hogi kyunki eski value define nhi  ki he
 
 
 
